@@ -15,7 +15,7 @@ Run the following command to start the program:
 
 ```bash
 python main.py
-
+```
 Follow the on-screen instructions to manage the records.
 
 ---
